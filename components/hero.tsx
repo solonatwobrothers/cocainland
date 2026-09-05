@@ -31,7 +31,7 @@ export function Hero() {
 
           <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
             <a
-              href="https://dexscreener.com/solana/7tg3ulbpxm8ucz1iwkguqt4sukmqrxbmfgad3mdjkxcx"
+              href="https://dexscreener.com/solana/2d6ycttnyap32rt1ude8j8cd2xajcrjhjwn6kjiyxsuw"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center rounded-full bg-primary px-7 py-3 text-base font-bold text-primary-foreground transition-transform hover:scale-105 active:scale-95"
