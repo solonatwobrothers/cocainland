@@ -1,4 +1,4 @@
-const TWITTER_URL = "https://twitter.com/cocainland"
+const TWITTER_URL = "https://x.com/cocainlandsol"
 
 function XLogo({ className }: { className?: string }) {
   return (
