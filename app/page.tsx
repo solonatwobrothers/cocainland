@@ -11,9 +11,9 @@ export default function Page() {
     <main className="relative min-h-screen bg-background">
       <div aria-hidden="true" className="pointer-events-none fixed inset-0 z-0">
         <img
-          src="/cocainland-banner.jpg"
+          src="/cocainland-square.jpg"
           alt=""
-          className="h-full w-full object-cover opacity-15 blur-2xl"
+          className="h-full w-full scale-110 object-cover opacity-20 blur-3xl"
         />
         <div className="absolute inset-0 bg-background/70" />
       </div>
